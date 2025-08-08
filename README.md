@@ -44,7 +44,7 @@
 
 ## 🌐 Connect with Me  
 <p align="center">
-  <a href="https://www.linkedin.com/in/faysal-hasan/](https://www.linkedin.com/in/faysal-hasan-31252a226/" target="_blank">
+  <a href="https://www.linkedin.com/in/faysal-hasan-31252a226/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:faysalhasan950@gmail.com">
