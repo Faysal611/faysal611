@@ -57,6 +57,7 @@
 ## 🚀 My Featured Projects
 
 ### [📌 Project One](https://github.com/Faysal611/campus-cuisine-client)
+**🔗 Live Demo:** [View Project](https://wonderful-mandazi-cdc2fe.netlify.app/) 
 This project is a full-stack Hostel Management System designed for university use. It enables administrators to manage student meals and food reviews efficiently, while allowing students to log in, view meals, and submit reviews. The system streamlines operations and enhances the hostel experience.
 ## 🚀 Features
 
@@ -83,3 +84,48 @@ This project is a full-stack Hostel Management System designed for university us
 | Database      | MongoDB (Atlas)                |
 | Authentication| Firebase Auth                  |
 | State Mgmt    | React Context, React Query     |
+
+---
+
+### [📌 Project Two](https://github.com/Faysal611/product-recommendation-site-client)
+**🔗 Live Demo:** [View Project](https://product-recommendation-system-faysal.netlify.app/) 
+This project is a full-stack Hostel Management System designed for university use. It enables administrators to manage student meals and food reviews efficiently, while allowing students to log in, view meals, and submit reviews. The system streamlines operations and enhances the hostel experience.
+
+## Features
+
+* **Post Recommendations**: Easily share your favorite products with the community.
+* **Submit Queries**: Ask questions about products or seek recommendations from other users.
+* **User-friendly Interface**: Navigate and interact with the system seamlessly.
+
+---
+
+## 🛠 Tech Stack
+
+This project leverages a modern web development stack to provide a fast and responsive user experience.
+
+* **React.js**: A declarative, efficient, and flexible JavaScript library for building user interfaces.
+* **Vite**: A next-generation frontend tooling that provides an extremely fast development experience.
+* **Tailwind CSS**: A utility-first CSS framework for rapidly building custom designs.
+* **DaisyUI**: A Tailwind CSS component library that simplifies UI development.
+* **Firebase**: A platform developed by Google for creating mobile and web applications, used here for authentication and potentially database services.
+* **Axios**: A promise-based HTTP client for making API requests.
+* **React Router**: For declarative routing in React applications.
+* **Motion**: A production-ready animation library for React.
+* **SweetAlert2**: A beautiful, responsive, customizable, and accessible (WAI-ARIA) replacement for JavaScript's popup boxes.
+* **React Simple Typewriter**: A simple and customizable typewriter effect for React.
+
+---
+
+### [📌 Project Three](https://github.com/Faysal611/assembly-endgame)
+**🔗 Live Demo:** [View Project](https://assembly-endgame-faysal950.netlify.app/)
+A word guessing game that requires you to guess it in 8 attempts. Each wrong guess k!lls one language untill only Assmbly is left to code with!
+
+## 🛠 Tech Stack
+
+![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-6.2-646CFF?logo=vite&logoColor=white)
+![React Confetti](https://img.shields.io/badge/React%20Confetti-6.4.0-ff69b4)
+![SweetAlert2](https://img.shields.io/badge/SweetAlert2-11.17.2-ffcc00)
+![ESLint](https://img.shields.io/badge/ESLint-9.21-4B32C3?logo=eslint&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ESM-F7DF1E?logo=javascript&logoColor=black)
+
