@@ -54,4 +54,32 @@
 
 ---
 
-⭐ **"Code is like humor — when you have to explain it, it’s bad."**  
+## 🚀 My Featured Projects
+
+### [📌 Project One](https://github.com/Faysal611/campus-cuisine-client)
+This project is a full-stack Hostel Management System designed for university use. It enables administrators to manage student meals and food reviews efficiently, while allowing students to log in, view meals, and submit reviews. The system streamlines operations and enhances the hostel experience.
+## 🚀 Features
+
+### 👨‍🎓 Student Panel
+- Student login with Firebase Authentication
+- View daily meals
+- Submit, edit, or delete food reviews
+- Search and filter meals by category or price
+
+### 👩‍💼 Admin Panel
+- View all registered students
+- Add, update, or delete meals
+- Manage food reviews
+- Monitor student feedback
+
+---
+
+## 🛠 Tech Stack
+
+| Layer         | Technology                     |
+|---------------|-------------------------------|
+| Frontend      | React.js, Tailwind CSS, Material UI, React Icons |
+| Backend       | Node.js, Express.js            |
+| Database      | MongoDB (Atlas)                |
+| Authentication| Firebase Auth                  |
+| State Mgmt    | React Context, React Query     |
