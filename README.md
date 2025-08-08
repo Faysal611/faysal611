@@ -57,7 +57,7 @@
 ## 🚀 My Featured Projects
 
 ### [📌 Project One](https://github.com/Faysal611/campus-cuisine-client)
-**🔗 Live Demo:** [View Project](https://wonderful-mandazi-cdc2fe.netlify.app/) 
+**🔗 Live Demo:** [View Project](https://wonderful-mandazi-cdc2fe.netlify.app/) <br>
 This project is a full-stack Hostel Management System designed for university use. It enables administrators to manage student meals and food reviews efficiently, while allowing students to log in, view meals, and submit reviews. The system streamlines operations and enhances the hostel experience.
 ## 🚀 Features
 
@@ -88,7 +88,7 @@ This project is a full-stack Hostel Management System designed for university us
 ---
 
 ### [📌 Project Two](https://github.com/Faysal611/product-recommendation-site-client)
-**🔗 Live Demo:** [View Project](https://product-recommendation-system-faysal.netlify.app/) 
+**🔗 Live Demo:** [View Project](https://product-recommendation-system-faysal.netlify.app/) <br>
 This project is a full-stack Hostel Management System designed for university use. It enables administrators to manage student meals and food reviews efficiently, while allowing students to log in, view meals, and submit reviews. The system streamlines operations and enhances the hostel experience.
 
 ## Features
@@ -117,15 +117,25 @@ This project leverages a modern web development stack to provide a fast and resp
 ---
 
 ### [📌 Project Three](https://github.com/Faysal611/assembly-endgame)
-**🔗 Live Demo:** [View Project](https://assembly-endgame-faysal950.netlify.app/)
+**🔗 Live Demo:** [View Project](https://assembly-endgame-faysal950.netlify.app/) <br>
 A word guessing game that requires you to guess it in 8 attempts. Each wrong guess k!lls one language untill only Assmbly is left to code with!
 
 ## 🛠 Tech Stack
 
-![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-6.2-646CFF?logo=vite&logoColor=white)
-![React Confetti](https://img.shields.io/badge/React%20Confetti-6.4.0-ff69b4)
-![SweetAlert2](https://img.shields.io/badge/SweetAlert2-11.17.2-ffcc00)
-![ESLint](https://img.shields.io/badge/ESLint-9.21-4B32C3?logo=eslint&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-ESM-F7DF1E?logo=javascript&logoColor=black)
+## 🛠 Tech Stack
+
+- **Frontend Framework:** [React 19](https://react.dev/)  
+- **Build Tool:** [Vite](https://vitejs.dev/)  
+- **UI Effects & Interactions:**
+  - [React Confetti](https://www.npmjs.com/package/react-confetti) – celebratory confetti animations 🎉
+  - [SweetAlert2](https://sweetalert2.github.io/) – beautiful popup alerts & modals  
+- **Linting & Code Quality:**
+  - [ESLint](https://eslint.org/) – static code analysis
+  - [eslint-plugin-react-hooks](https://www.npmjs.com/package/eslint-plugin-react-hooks) – React hooks best practices
+  - [eslint-plugin-react-refresh](https://www.npmjs.com/package/eslint-plugin-react-refresh) – React fast refresh linting  
+- **Type Support:**
+  - [@types/react](https://www.npmjs.com/package/@types/react)
+  - [@types/react-dom](https://www.npmjs.com/package/@types/react-dom)
+- **Language & Module System:** JavaScript (ES Modules)
+
 
