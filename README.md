@@ -1,114 +1,104 @@
 <!-- Banner -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/113350806/236842414-18101a37-92f5-4de7-a46d-eeaca6e16cbd.gif" alt="Banner" />
-</p>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/113350806/236842414-18101a37-92f5-4de7-a46d-eeaca6e16cbd.gif" alt="Banner" width="100%" />
+</div>
 
-<!-- Title -->
-<h1 align="center">Faysal Hasan</h1>
-<h3 align="center">Full-Stack Software Developer | Next.js, FastAPI & PostgreSQL | AI & Machine Learning</h3>
+<!-- Header & Headline -->
+<div align="center">
+  <h1>Faysal Hasan</h1>
+  <h3>Full-Stack Software Engineer &nbsp;|&nbsp; Next.js, FastAPI & PostgreSQL &nbsp;|&nbsp; AI & Machine Learning</h3>
+
+  <!-- Quick Links -->
+  <p>
+    <a href="https://www.linkedin.com/in/faysal-hasan-31252a226/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:faysalhasan950@gmail.com">
+      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://github.com/Faysal611" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+  </p>
+</div>
 
 ---
 
-## About Me
-- **Full-Stack Engineer** experienced in architecting end-to-end web applications and high-performance backend APIs using **Next.js**, **React**, **FastAPI**, and **Node.js**.
-- **Database & Backend Architecture:** Proficient in designing relational and document-based data models with **PostgreSQL**, **SQLAlchemy**, and **MongoDB**.
-- **AI & Machine Learning:** Actively building **AI agents** and developing applied machine learning solutions in **Python**.
-- **Core Foundations:** Strong command of object-oriented programming, data structures, and algorithms across **Python**, **TypeScript/JavaScript**, and **Java**.
+## Overview
+
+- **Full-Stack Engineering:** Architecting scalable web applications and asynchronous REST APIs using **Next.js**, **React**, **FastAPI**, and **Node.js**.
+- **AI & Machine Learning:** Developing tool-calling **AI Agents** with LLM APIs (**Google Gemini**) and building applied machine learning workflows in **Python**.
+- **Database Architecture:** Designing relational and document-based schemas using **PostgreSQL**, **SQLAlchemy**, and **MongoDB**.
 
 ---
 
-## Technical Skills
+## Technical Stack
 
-### Languages
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript_(ES6+)-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py,ts,js,nextjs,react,fastapi,nodejs,express,postgres,mongodb,tailwind,mui,firebase,vite,git&perline=15" alt="Tech Icons" />
+</div>
 
-### Frontend & UI Engineering
-<p>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" alt="TanStack Query" />
-  <img src="https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="Material UI" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-</p>
+<br />
 
-### Backend, Databases & AI/ML
-<p>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-Learn" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</p>
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript_(ES6+)-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| **Frontend** | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white) ![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=flat-square&logo=mui&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) |
+| **Backend & DB** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
+| **AI / ML & Tools** | ![Google Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![uv](https://img.shields.io/badge/uv-DE5FE9?style=flat-square&logo=python&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
 
 ---
 
 ## Featured Projects
 
-<!-- 
-TIP: Once your newer Next.js, FastAPI/PostgreSQL, or AI Agent repositories are public, 
-place them at the top of this list so recruiters see your latest stack first.
--->
+### 1. Autonomous AI Coding Agent
+[![Source Code](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/Faysal611/ai-agent)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Gemini API](https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![LLM Function Calling](https://img.shields.io/badge/Architecture-Tool_Calling-009688?style=flat-square)
+![uv](https://img.shields.io/badge/Tooling-uv-DE5FE9?style=flat-square)
 
-### 1. [Campus Cuisine — University Hostel & Dining Management System](https://github.com/Faysal611/campus-cuisine-client)
-**Live Demo:** [View Deployment](https://wonderful-mandazi-cdc2fe.netlify.app/)
+A CLI-based autonomous coding agent built in Python using the **Google Gemini API**. The system leverages LLM function calling (tool use) to inspect directories, manipulate source files, and execute Python scripts autonomously within a sandboxed workspace.
 
-A full-stack management platform engineered to streamline university hostel meal operations and student feedback through role-based access control.
-
-- **Student Portal:** Authenticated access to browse daily menus, filter meals by category or price, and perform full CRUD operations on food reviews.
-- **Admin Dashboard:** Centralized interface for managing student registrations, updating meal inventories, and moderating user feedback.
-- **Tech Stack:** React.js, Tailwind CSS, Material UI, TanStack Query, Node.js, Express.js, MongoDB Atlas, Firebase Auth.
-
----
-
-### 2. [Product Recommendation & Community Query Platform](https://github.com/Faysal611/product-recommendation-site-client)
-**Live Demo:** [View Deployment](https://product-recommendation-system-faysal.netlify.app/)
-
-A full-stack web application enabling users to submit product inquiries, evaluate alternatives, and share community-driven recommendations.
-
-- **Core Functionality:** Real-time query publishing, community recommendation threads, and interactive filtering.
-- **Frontend Architecture:** Responsive interface featuring smooth layout transitions, client-side routing, and accessible modal notifications.
-- **Tech Stack:** React.js (Vite), Tailwind CSS, DaisyUI, Framer Motion, Axios, Firebase.
+- **Autonomous Tool Execution:** Implemented custom tool declarations that allow the model to list directory trees, read file contents, write/overwrite code, and run Python scripts with dynamic CLI arguments.
+- **Sandboxed File System Security:** Enforced strict working-directory scoping (`root_folder`) to isolate agent operations and prevent unauthorized file modifications outside the target project environment.
+- **Developer CLI & Observability:** Built with modern `uv` package management and includes a `--verbose` execution mode to trace prompt reasoning and tool-call payloads in real time.
 
 ---
 
-### 3. [Assembly: Endgame — State-Driven Word Puzzle](https://github.com/Faysal611/assembly-endgame)
-**Live Demo:** [View Deployment](https://assembly-endgame-faysal950.netlify.app/)
+### 2. Campus Cuisine — Hostel & Dining Management System
+[![Source Code](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/Faysal611/campus-cuisine-client)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://wonderful-mandazi-cdc2fe.netlify.app/)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
 
-An interactive word-deduction game built with React 19 where players have eight attempts to guess a hidden term before high-level programming languages are eliminateddown to Assembly.
+A full-stack university hostel management platform designed to streamline daily dining operations, meal scheduling, and student feedback through role-based access control.
 
-- **Core Functionality:** Dynamic state tracking, virtual keyboard event handling, and win/loss state transitions.
-- **Tech Stack:** React 19, Vite, JavaScript (ES6+), SweetAlert2.
-
----
-
-## GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Faysal611&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Faysal611&theme=tokyonight" alt="GitHub Streak" height="160" />
-</p>
+- **Student Portal:** Features Firebase authentication, interactive meal discovery with category and price filtering, and full CRUD workflows for submitting and managing dining reviews.
+- **Administrative Dashboard:** Centralized management interface for overseeing registered students, updating meal inventories, and moderating platform feedback.
+- **System Architecture:** Engineered with **React.js**, **Tailwind CSS**, and **Material UI**, utilizing **TanStack Query** and **Context API** for asynchronous state synchronization with a **Node.js / Express.js** and **MongoDB Atlas** backend.
 
 ---
 
-## Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/md-faysal-hasan" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:faysalhasan950@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+### 3. Assembly: Endgame — State-Driven Word Puzzle
+[![Source Code](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/Faysal611/assembly-endgame)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://assembly-endgame-faysal950.netlify.app/)
+![React 19](https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript_(ES6+)-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+An interactive word-deduction application built with **React 19** where players have eight attempts to identify a hidden term before high-level programming languages are systematically eliminated down to Assembly.
+
+- **Interactive State Management:** Tracks real-time letter guesses, remaining attempts, and dynamic UI state transitions across virtual keyboard inputs.
+- **Frontend Tooling:** Built using **React 19** and **Vite** with modular ES6+ architecture, **SweetAlert2** modal feedback, and celebratory canvas animations.
+
+---
+
+## GitHub Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Faysal611&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Faysal611&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" height="165" />
+</div>
