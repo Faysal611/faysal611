@@ -10,7 +10,7 @@
 
   <!-- Quick Links -->
   <p>
-    <a href="https://www.linkedin.com/in/faysal-hasan-31252a226/" target="_blank">
+    <a href="https://www.linkedin.com/in/md-faysal-hasan" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="mailto:faysalhasan950@gmail.com">
