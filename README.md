@@ -6,7 +6,7 @@
 <!-- Header & Headline -->
 <div align="center">
   <h1>Faysal Hasan</h1>
-  <h3>Full-Stack Software Engineer &nbsp;|&nbsp; Next.js, FastAPI & PostgreSQL &nbsp;|&nbsp; AI & Machine Learning</h3>
+  <h3>Full-Stack Software Engineer &nbsp;|&nbsp; AI & Machine Learning</h3>
 
   <!-- Quick Links -->
   <p>
